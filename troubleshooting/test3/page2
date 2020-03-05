@@ -1,60 +1,39 @@
 <!DOCTYPE html>
 <html>
-
   <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>Troubleshooting site</title>
-  <meta name="description" content="This site has lots of amusing gotchas for people who attempt to scrape it!
-">
-
+  <meta name="description" content="This is a troubleshooting practice site">
   <link rel="stylesheet" href="../css/main.css">
-  <link rel="canonical" href="http://jimlyndon.github.io//web-crawler-test-site/test3/page2.html">
-  <link rel="alternate" type="application/rss+xml" title="Troubleshooting site" href="http://jimlyndon.github.io//web-crawler-test-site/feed.xml">
+  <link rel="canonical" href="http://jimlyndon.github.io//troubleshooting/test3/page2.html">
+  <link rel="alternate" type="application/rss+xml" title="Troubleshooting site" href="http://jimlyndon.github.io//troubleshooting/feed.xml">
 </head>
-
-
   <body>
-
     <header class="site-header">
-
   <div class="wrapper">
-
     <a class="site-title" href="../index.html">Troubleshooting site</a>
-
-
   </div>
-
 </header>
-
-
     <div class="page-content">
       <div class="wrapper">
         <p>I am a page with a lot of weird URLs.</p>
-
-<p><a href="http://blah.com:7081">link1</a>
-<a href="http://blah.com:7082">link2</a>
-<a href="http://blah.com:7083">link3</a>
-<a href="http://blah.com:7084">link4</a>
-<a href="http://blah.com:7085">link5</a>
-<a href="http://blah.com:7086">link6</a>
-<a href="http://blah.com:7087">link7</a>
-<a href="http://blah.com:7088">link8</a>
-<a href="http://blah.com:7089">link9</a>
-<a href="http://blah.com:7090">linkA</a>
-<a href="http://blah.com:7091">linkB</a></p>
-
+<p><a href="http://noresponse.tatari.tv:8192">link1</a>
+<a href="http://noresponse.tatari.tv:8193">link2</a>
+<a href="http://noresponse.tatari.tv:8194">link3</a>
+<a href="http://noresponse.tatari.tv:8195">link4</a>
+<a href="http://noresponse.tatari.tv:8196">link5</a>
+<a href="http://noresponse.tatari.tv:8197">link6</a>
+<a href="http://noresponse.tatari.tv:8198">link7</a>
+<a href="http://noresponse.tatari.tv:8199">link8</a>
+<a href="http://noresponse.tatari.tv:8200">link9</a>
+<a href="http://noresponse.tatari.tv:8201">linkA</a>
+<a href="http://noresponse.tatari.tv:8202">linkB</a></p>
       </div>
     </div>
-
     <footer class="site-footer">
-
   <div class="wrapper">
-
     <h2 class="footer-heading">Troubleshooting site</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -62,18 +41,11 @@
           <li><a href="mailto:support@tatari.tv">support@tatari.tv</a></li>
         </ul>
       </div>
-
       <div class="footer-col footer-col-3">
-        <p>This site has lots of amusing gotchas for people who attempt to scrape it!
-</p>
+        <p>This is a troubleshooting practice site</p>
       </div>
     </div>
-
   </div>
-
 </footer>
-
-
-  </body>
-
+</body>
 </html>
